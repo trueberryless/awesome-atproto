@@ -225,89 +225,89 @@ Lexicons are the schema language of the AT Protocol (similar to OpenAPI for a fe
   <!-- AUTOGENERATION_START: clients -->
 ### Creative
 
-- [rpg.actor](https://rpg.actor) -Build your character on rpg.actor and have fun playing in many worlds!
-- [Blento](https://blento.app) -Create your own website, the fun way
-- [Lexidraw](https://lexidraw.app) -Lexidraw, an Excalidraw fork where your drawings follow you
+- [rpg.actor](https://rpg.actor) - Build your character on rpg.actor and have fun playing in many worlds!
+- [Blento](https://blento.app) - Create your own website, the fun way
+- [Lexidraw](https://lexidraw.app) - Lexidraw, an Excalidraw fork where your drawings follow you
 
 ### Developer
 
-- [Tangled](https://tangled.org) -a git collaboration platform, built on atproto
-- [Marque](https://marque.at) -Claim your name on the open web
-- [npmx](https://npmx.dev) -a fast, modern browser for the npm registry. Search, browse, and explore packages with a modern interface.
-- [wisp.place](https://wisp.place) -Somewhere to put your stuff. A folder becomes a website
-- [comail](https://comail.at) -Cooperative email for atproto
-- [Airglow](https://airglow.run) -Automations for the AT Protocol.
-- [co/core](https://cocore.dev) -co/core is a cooperative for AI inference — people pooling the Macs they already own to run open models for each other.
-- [ATCR](https://atcr.io) -Push and pull Docker images on the AT Protocol.
+- [Tangled](https://tangled.org) - a git collaboration platform, built on atproto
+- [Marque](https://marque.at) - Claim your name on the open web
+- [npmx](https://npmx.dev) - a fast, modern browser for the npm registry. Search, browse, and explore packages with a modern interface.
+- [wisp.place](https://wisp.place) - Somewhere to put your stuff. A folder becomes a website
+- [comail](https://comail.at) - Cooperative email for atproto
+- [Airglow](https://airglow.run) - Automations for the AT Protocol.
+- [co/core](https://cocore.dev) - co/core is a cooperative for AI inference — people pooling the Macs they already own to run open models for each other.
+- [ATCR](https://atcr.io) - Push and pull Docker images on the AT Protocol.
 
 ### Games
 
-- [Skyrdle](https://skyrdle.com) -Daily word puzzle on AT Protocol.
-- [AT Mot](https://atmot.herve.bzh) -Guess the 5-letter word in 6 tries!
-- [math.r](https://mathr.app) -Mathr is a brain building game to improve your math calculation skills. Practice arithmetic and level up!
-- [Puzzmo](https://puzzmo.com) -The new place for thoughtful puzzles.
+- [Skyrdle](https://skyrdle.com) - Daily word puzzle on AT Protocol.
+- [AT Mot](https://atmot.herve.bzh) - Guess the 5-letter word in 6 tries!
+- [math.r](https://mathr.app) - Mathr is a brain building game to improve your math calculation skills. Practice arithmetic and level up!
+- [Puzzmo](https://puzzmo.com) - The new place for thoughtful puzzles.
 
 ### News
 
-- [Mu](https://mu.social) -Proper Cringe™
-- [Sill](https://sill.social) -Sill streamlines your Bluesky and Mastodon feeds to give you a clear picture of what's happening.
-- [Skyreader](https://skyreader.app) -Read everything from everywhere. Make sense of it all.
+- [Mu](https://mu.social) - Proper Cringe™
+- [Sill](https://sill.social) - Sill streamlines your Bluesky and Mastodon feeds to give you a clear picture of what's happening.
+- [Skyreader](https://skyreader.app) - Read everything from everywhere. Make sense of it all.
 
 ### Personal Page
 
-- [Sifa ID](https://sifa.id) -Professional identity on the AT Protocol
-- [Keytrace](https://keytrace.dev) -Link GitHub, domains, and other accounts to your internet handle.
-- [Pronouns](https://pronouns.blue) -Share your names and pronouns on ATproto
-- [Linkat](https://linkat.blue) -Linkat is an ATProto service for creating a "Link in Bio" for Bluesky. Your links are saved in your PDS.
+- [Sifa ID](https://sifa.id) - Professional identity on the AT Protocol
+- [Keytrace](https://keytrace.dev) - Link GitHub, domains, and other accounts to your internet handle.
+- [Pronouns](https://pronouns.blue) - Share your names and pronouns on ATproto
+- [Linkat](https://linkat.blue) - Linkat is an ATProto service for creating a "Link in Bio" for Bluesky. Your links are saved in your PDS.
 
 ### Publishing
 
-- [Standard Reader](https://standard-reader.app) -Fresh writing from the publications you follow, every day.
-- [Leaflet](https://leaflet.pub) -Read and publish on the Atmosphere — social blogs, one-off posts, and more
-- [Offprint](https://offprint.app) -Publishing infrastructure for the open web.
-- [writizzy](https://writizzy.com) -The web deserves more independent publishing
+- [Standard Reader](https://standard-reader.app) - Fresh writing from the publications you follow, every day.
+- [Leaflet](https://leaflet.pub) - Read and publish on the Atmosphere — social blogs, one-off posts, and more
+- [Offprint](https://offprint.app) - Publishing infrastructure for the open web.
+- [writizzy](https://writizzy.com) - The web deserves more independent publishing
 
 ### Social
 
-- [Bridgy Fed](https://ap.brid.gy) -Bridging the new social internet
-- [Spark](https://sprk.so) -Real Moments, Shared Together
-- [You & Me](https://youandme.at) -Connect with people around you on the AT Protocol.
+- [Bridgy Fed](https://ap.brid.gy) - Bridging the new social internet
+- [Spark](https://sprk.so) - Real Moments, Shared Together
+- [You & Me](https://youandme.at) - Connect with people around you on the AT Protocol.
 
 ### Other
 
-- [Witchsky](https://witchsky.app) -Bluesky app with some witchin' additions 💫
-- [Grain](https://grain.social) -Photography focused photo sharing platform
-- [pckt.blog](https://pckt.blog) -A distraction-free space to write and share your story. Just you, and your words.
-- [PDSls](https://pds.ls) -Browse the public data on atproto
-- [Graze](https://graze.social) -Build custom social feeds. Grow your audience. Keep the revenue. No code required.
-- [PDS MOOver](https://pds.dad) -ATProto tools for PDS migrations and backups
-- [ATStore](https://atstore.fyi) -Find your next favorite app.
-- [Stream.place](https://stream.place) -Open Source Livestreaming on the AT Protocol
-- [Boost Blue](https://boostblue.bsky.social) -Boost your Bluesky experience
-- [Margin](https://margin.at) -Write in the margins of the web. Annotate any URL with AT Protocol.
-- [Anisota](https://anisota.net) -A radical yet peaceful user interface for Bluesky, ATProto, and ATmosphere-based social media
-- [Squire](https://squire.guide) -the task-sorting assistant for the modern adventuring knight
-- [Beacon Bits](https://beaconbits.app) -Put your posts on the map
-- [kipclip](https://kipclip.com) -Save and organize your bookmarks. Free, open, and your data stays yours.
-- [Blacksky](https://blackskyweb.xyz) -Decentralized social media built for community power, culture, and collective freedom.
-- [Currents](https://currents.is) -Save inspiration and curate personalized visual feeds.
-- [Germ Network](https://germnetwork.com) -Share what you want to, when you need to, on Germ DM.
-- [plyr.fm](https://plyr.fm) -start typing to search across all content
-- [atpr.to](https://atpr.to) -AT Protocol URL shortener — links stored in your own PDS.
-- [Ask Everything](https://askeverything.app) -Ask, answer, & explore questions about everything.
-- [BookHive](https://bookhive.buzz) -The social platform for book lovers
-- [Flux](https://fluxapp.blue) -A calm, beautiful Bluesky client app for iOS
-- [favs.blue](https://favs.blue) -See any Bluesky account's most popular posts.
-- [Tracker - Manager for Bluesky](https://blueskytracker.app) -Track & Manage in real time your network. The must have companion app for Bluesky.
-- [ATlas](https://atls.city) -Bringing the ATmosphere together
-- [Kimbia](https://kimbia.app) -Your training journal. Yours, forever.
-- [Semble](https://semble.so) -Social knowledge network for your research trails
-- [Colibri](https://colibri.social) -Colibri is an open source chat platform built on the ATprotocol for communities big and small.
-- [Open Market](https://openmkt.app) -Browse local listings on Open Market. Find great deals on items for sale in your area without fees or middlemen.
-- [GainForest](https://gainforest.earth) -Protecting and restoring Earth's forests with transparent conservation data.
-- [postgame](https://postgame.at) -Track and manage your gaming backlog
-- [Cartes.app](https://cartes.app) -Open source map with AT place reviews
-- [Winesky](https://winesky.app) -Your personal AI sommelier and wine cellar manager.
+- [Witchsky](https://witchsky.app) - Bluesky app with some witchin' additions 💫
+- [Grain](https://grain.social) - Photography focused photo sharing platform
+- [pckt.blog](https://pckt.blog) - A distraction-free space to write and share your story. Just you, and your words.
+- [PDSls](https://pds.ls) - Browse the public data on atproto
+- [Graze](https://graze.social) - Build custom social feeds. Grow your audience. Keep the revenue. No code required.
+- [PDS MOOver](https://pds.dad) - ATProto tools for PDS migrations and backups
+- [ATStore](https://atstore.fyi) - Find your next favorite app.
+- [Stream.place](https://stream.place) - Open Source Livestreaming on the AT Protocol
+- [Boost Blue](https://boostblue.bsky.social) - Boost your Bluesky experience
+- [Margin](https://margin.at) - Write in the margins of the web. Annotate any URL with AT Protocol.
+- [Anisota](https://anisota.net) - A radical yet peaceful user interface for Bluesky, ATProto, and ATmosphere-based social media
+- [Squire](https://squire.guide) - the task-sorting assistant for the modern adventuring knight
+- [Beacon Bits](https://beaconbits.app) - Put your posts on the map
+- [kipclip](https://kipclip.com) - Save and organize your bookmarks. Free, open, and your data stays yours.
+- [Blacksky](https://blackskyweb.xyz) - Decentralized social media built for community power, culture, and collective freedom.
+- [Currents](https://currents.is) - Save inspiration and curate personalized visual feeds.
+- [Germ Network](https://germnetwork.com) - Share what you want to, when you need to, on Germ DM.
+- [plyr.fm](https://plyr.fm) - start typing to search across all content
+- [atpr.to](https://atpr.to) - AT Protocol URL shortener — links stored in your own PDS.
+- [Ask Everything](https://askeverything.app) - Ask, answer, & explore questions about everything.
+- [BookHive](https://bookhive.buzz) - The social platform for book lovers
+- [Flux](https://fluxapp.blue) - A calm, beautiful Bluesky client app for iOS
+- [favs.blue](https://favs.blue) - See any Bluesky account's most popular posts.
+- [Tracker - Manager for Bluesky](https://blueskytracker.app) - Track & Manage in real time your network. The must have companion app for Bluesky.
+- [ATlas](https://atls.city) - Bringing the ATmosphere together
+- [Kimbia](https://kimbia.app) - Your training journal. Yours, forever.
+- [Semble](https://semble.so) - Social knowledge network for your research trails
+- [Colibri](https://colibri.social) - Colibri is an open source chat platform built on the ATprotocol for communities big and small.
+- [Open Market](https://openmkt.app) - Browse local listings on Open Market. Find great deals on items for sale in your area without fees or middlemen.
+- [GainForest](https://gainforest.earth) - Protecting and restoring Earth's forests with transparent conservation data.
+- [postgame](https://postgame.at) - Track and manage your gaming backlog
+- [Cartes.app](https://cartes.app) - Open source map with AT place reviews
+- [Winesky](https://winesky.app) - Your personal AI sommelier and wine cellar manager.
   <!-- AUTOGENERATION_END: clients -->
 
 ## 🌍 Community & Ecosystem
