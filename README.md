@@ -281,8 +281,8 @@ Lexicons are the schema language of the AT Protocol (similar to OpenAPI for a fe
 - [PDSls](https://pds.ls) - Browse the public data on atproto
 - [Graze](https://graze.social) - Build custom social feeds. Grow your audience. Keep the revenue. No code required.
 - [PDS MOOver](https://pds.dad) - ATProto tools for PDS migrations and backups
-- [ATStore](https://atstore.fyi) - Find your next favorite app.
 - [Stream.place](https://stream.place) - Open Source Livestreaming on the AT Protocol
+- [ATStore](https://atstore.fyi) - Find your next favorite app.
 - [Boost Blue](https://boostblue.bsky.social) - Boost your Bluesky experience
 - [Margin](https://margin.at) - Write in the margins of the web. Annotate any URL with AT Protocol.
 - [Anisota](https://anisota.net) - A radical yet peaceful user interface for Bluesky, ATProto, and ATmosphere-based social media
