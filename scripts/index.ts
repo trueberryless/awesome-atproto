@@ -26,7 +26,7 @@ interface FetchedItem {
   stars?: number;
 }
 
-const CONCURRENCY = 6;
+const CONCURRENCY = 3;
 const MIN_GROUP_SIZE = 3;
 const README_PATH = path.join(process.cwd(), "README.md");
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
@@ -255,7 +255,7 @@ async function fetchAtstoreListings(minReviews: number, minRating: number, curat
 
   for (const key of sortedKeys) {
     markdown += `### ${key}\n\n`;
-    const appsInGroup = consolidatedGroups[key].sort((a, b) => b.reviewCount - a.reviewCount);
+    const appsInGroup = consolidatedGroups[key].sort((a, b) => a.name.localeCompare(b.name));
 
     for (const app of appsInGroup) {
       const desc = truncateDescription(app.tagline || app.description);
