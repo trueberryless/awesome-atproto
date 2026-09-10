@@ -22,10 +22,25 @@ jobs:
         with:
           fail: false
 
+      - name: Find Existing Issue
+        if: steps.lychee.outputs.exit_code != 0
+        id: find-issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          ISSUE_NUM=$(gh issue list \
+            --state open \
+            --label "automated issue" \
+            --search "Link Checker Report in:title" \
+            --json number \
+            --jq '.[0].number // empty')
+          echo "issue_number=$ISSUE_NUM" >> "$GITHUB_OUTPUT"
+
       - name: Create Issue From File
         if: steps.lychee.outputs.exit_code != 0
         uses: peter-evans/create-issue-from-file@fca9117c27cdc29c6c4db3b86c48e4115a786710 # v6
         with:
           title: Link Checker Report
+          issue-number: ${{ steps.lychee.outputs.exit_code != 0 && steps.find-issue.outputs.issue_number || '' }}
           content-filepath: ./lychee/out.md
           labels: report, automated issue
