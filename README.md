@@ -100,8 +100,8 @@ Official and community-maintained client libraries for building applications acr
 
 - [MarshalX/atproto](https://github.com/MarshalX/atproto) - Comprehensive, community-led Python SDK (synchronous and asynchronous).
   <!-- AUTOGENERATION_START: sdks_python -->
-- [bonelifer/BlueSky-Suite](https://github.com/bonelifer/BlueSky-Suite) - A suite of Python scripts for managing your BlueSky account, including unfollowing inactive accounts, detecting grifting links, identifying suspended accounts, and more. These scripts use the atpro...
 - [DavidBuchanan314/atmst](https://github.com/DavidBuchanan314/atmst) - A Python library for wrangling atproto-flavoured Merkle Search Trees
+- [elouangrimm/zAi](https://github.com/elouangrimm/zAi) - ai bot on bluesky with openrouter's api!
 - [l0ji/bluroma-py](https://github.com/l0ji/bluroma-py) - A Pleroma-like Bluesky client
 - [mnogu/chitose](https://github.com/mnogu/chitose) - Python client library for the AT Protocol (Bluesky)
 - [ruggsea/bluesky-firehose-py](https://github.com/ruggsea/bluesky-firehose-py) - A Python library/CLI for collecting and archiving posts from the Bluesky social network using the Jetstream API.
@@ -125,6 +125,17 @@ Official and community-maintained client libraries for building applications acr
 - [ngerakines/atproto-rs](https://github.com/ngerakines/atproto-rs) - A suite of libraries, tools, and daemons for atproto.
 - [Smalls1652/atprotolib-rs](https://github.com/Smalls1652/atprotolib-rs) - Rust library for ATProtocol types
   <!-- AUTOGENERATION_END: sdks_rust -->
+
+### Ruby
+
+- [ATproto Ruby SDK](https://ruby.sdk.blue/) - A set of Ruby gems for interacting with and building on the Bluesky APIs and the AT Protocol
+  <!-- AUTOGENERATION_START: sdks_ruby -->
+- [mackuba/didkit](https://github.com/mackuba/didkit) - A library for handling DID identifiers used in Bluesky AT Protocol. Mirror of: https://tangled.org/mackuba.eu/didkit
+- [mackuba/minisky](https://github.com/mackuba/minisky) - A minimal Ruby client of Bluesky/ATProto API. Mirror of: https://tangled.org/mackuba.eu/minisky
+- [mackuba/sdk.blue](https://github.com/mackuba/sdk.blue) - A curated list of libraries & SDKs for the Bluesky API and AT Protocol. Mirror of: https://tangled.org/mackuba.eu/sdk.blue
+- [ShreyanJain9/xrpc](https://github.com/ShreyanJain9/xrpc) - A small library for working with XRPC requests from Ruby, designed for use as part of Bskyrb
+- [snood1205/arroba](https://github.com/snood1205/arroba) - Unofficial client for ATProto
+  <!-- AUTOGENERATION_END: sdks_ruby -->
 
 ## 🛠 Developer Tools & CLIs
 

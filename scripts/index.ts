@@ -43,6 +43,7 @@ const TASKS: TaskConfig[] = [
   { type: "github", id: "sdks_go", query: "topic:atproto language:go sdk OR library OR api OR client", limit: 10 },
   { type: "github", id: "sdks_python", query: "topic:atproto language:python sdk OR library OR api OR client", limit: 10 },
   { type: "github", id: "sdks_rust", query: "topic:atproto language:rust sdk OR library OR api OR client", limit: 10 },
+  { type: "github", id: "sdks_ruby", query: "topic:atproto language:ruby sdk OR library OR api OR client", limit: 10 },
   { type: "github", id: "tools_cli", query: "topic:atproto cli OR tool OR utility", limit: 10 },
   { type: "github", id: "ozone", query: "topic:atproto ozone OR labeler OR moderation OR safety", limit: 8 },
   { type: "github", id: "lexicons", query: "topic:atproto lexicon OR codegen", limit: 8 },
