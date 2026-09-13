@@ -164,8 +164,8 @@ The AT Protocol relies heavily on composable moderation. Instead of a single cen
 - [blacksky-algorithms/rsky](https://github.com/blacksky-algorithms/rsky) - An AT Protocol implementation prioritizing community safety and self-governance, written in Rust.
   <!-- AUTOGENERATION_START: ozone -->
 - [bsky-watch/labeler](https://github.com/bsky-watch/labeler) - Basic ATproto labeler and a toolkit to make your own
-- [david-engelmann/atproto](https://github.com/david-engelmann/atproto) - OCaml toolkit for the AT Protocol (XRPC, lexicons, repo sync, identity, AppView, Ozone)
 - [eddieoz/atproto-scam-detector](https://github.com/eddieoz/atproto-scam-detector) - Crypto-Labeler is an advanced, AI-powered labeling and moderation tool dedicated to protecting the BlueSky community. By identifying and addressing crypto spammers, scammers, phishing attempts, and...
+- [ewanc26/wolfram](https://github.com/ewanc26/wolfram) - Primarily C AT Protocol SDK: client-side, wire-level implementation (XRPC, OAuth/DPoP, identity, repos/MST/CAR, firehose/Jetstream, moderation, CLI, generated clients). Not a port of the PDS/AppVie...
 - [haileyok/phoebe](https://github.com/haileyok/phoebe) - A trust and safety agent that interacts with Osprey for investigation, real-time analysis, and prevention implementations
 - [itaru2622/bluesky-selfhost-env](https://github.com/itaru2622/bluesky-selfhost-env) - bluesky self-hosting tool for easy deploy in anywhere.
 - [julietshen/troposphere](https://github.com/julietshen/troposphere) - A self-hostable alternative to Ozone designed to work with Coop
@@ -179,7 +179,7 @@ Lexicons are the schema language of the AT Protocol (similar to OpenAPI for a fe
 
 - [Lexicon Specification](https://atproto.com/specs/lexicon) - The official documentation for the Lexicon schema language.
   <!-- AUTOGENERATION_START: lexicons -->
-- [ewanc26/malachite](https://github.com/ewanc26/malachite) - Malachite is a tool to import your Last.fm and Spotify listening history to the AT Protocol network using the `fm.teal.alpha.feed.play` lexicon.
+- [danielroe/airspace](https://github.com/danielroe/airspace) - The database you already have.
 - [joshlacal/Petrel](https://github.com/joshlacal/Petrel) - Swift library for the ATProtocol and Bluesky, generated from Lexicons
 - [lexicon-community/lexicon](https://github.com/lexicon-community/lexicon) - An ATProtocol community Lexicon
 - [marukun712/stellar](https://github.com/marukun712/stellar) - Stellarは、Blueskyの投稿に対して簡易的な絵文字リアクションを付けるための、シンプルなLexicon・仕様群です。
@@ -313,7 +313,6 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 ### Other
 
 - [Anisota](https://anisota.net) - A radical yet peaceful user interface for Bluesky, ATProto, and ATmosphere-based social media
-- [Ask Everything](https://askeverything.app) - Ask, answer, & explore questions about everything.
 - [ATlas](https://atls.city) - Bringing the ATmosphere together
 - [atpr.to](https://atpr.to) - AT Protocol URL shortener — links stored in your own PDS.
 - [ATStore](https://atstore.fyi) - Find your next favorite app.
