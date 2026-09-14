@@ -100,8 +100,8 @@ Official and community-maintained client libraries for building applications acr
 
 - [MarshalX/atproto](https://github.com/MarshalX/atproto) - Comprehensive, community-led Python SDK (synchronous and asynchronous).
   <!-- AUTOGENERATION_START: sdks_python -->
+- [bonelifer/BlueSky-Suite](https://github.com/bonelifer/BlueSky-Suite) - A suite of Python scripts for managing your BlueSky account, including unfollowing inactive accounts, detecting grifting links, identifying suspended accounts, and more. These scripts use the atpro...
 - [DavidBuchanan314/atmst](https://github.com/DavidBuchanan314/atmst) - A Python library for wrangling atproto-flavoured Merkle Search Trees
-- [elouangrimm/zAi](https://github.com/elouangrimm/zAi) - ai bot on bluesky with openrouter's api!
 - [l0ji/bluroma-py](https://github.com/l0ji/bluroma-py) - A Pleroma-like Bluesky client
 - [mnogu/chitose](https://github.com/mnogu/chitose) - Python client library for the AT Protocol (Bluesky)
 - [ruggsea/bluesky-firehose-py](https://github.com/ruggsea/bluesky-firehose-py) - A Python library/CLI for collecting and archiving posts from the Bluesky social network using the Jetstream API.
@@ -313,6 +313,7 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 ### Other
 
 - [Anisota](https://anisota.net) - A radical yet peaceful user interface for Bluesky, ATProto, and ATmosphere-based social media
+- [Ask Everything](https://askeverything.app) - Ask, answer, & explore questions about everything.
 - [ATlas](https://atls.city) - Bringing the ATmosphere together
 - [atpr.to](https://atpr.to) - AT Protocol URL shortener — links stored in your own PDS.
 - [ATStore](https://atstore.fyi) - Find your next favorite app.
