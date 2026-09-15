@@ -198,7 +198,7 @@ Resources and implementations for running your own Personal Data Server (PDS), R
   <!-- AUTOGENERATION_START: infrastructure -->
 - [alnkesq/AppViewLite](https://github.com/alnkesq/AppViewLite) - A Bluesky appview focused on low resource consumption
 - [ascorbic/cirrus](https://github.com/ascorbic/cirrus) - A single-user ATProto PDS that runs on a Cloudflare Worker
-- [Automattic/wordpress-atmosphere](https://github.com/Automattic/wordpress-atmosphere) - ATmosphere connects your WordPress site to the AT Protocol network. When you publish a post, it is automatically cross-posted to Bluesky and registered as a standard.site document on your Personal ...
+- [danielroe/airspace](https://github.com/danielroe/airspace) - The database you already have.
 - [DavidBuchanan314/millipds](https://github.com/DavidBuchanan314/millipds) - A from-scratch atproto PDS implementation in Python
 - [DavidBuchanan314/picopds](https://github.com/DavidBuchanan314/picopds) - A minimum viable atproto PDS for protocol experimentation purposes
 - [dollspace-gay/Aurora-Prism](https://github.com/dollspace-gay/Aurora-Prism) - A third party Appview for ATproto
