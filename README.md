@@ -180,7 +180,7 @@ Lexicons are the schema language of the AT Protocol (similar to OpenAPI for a fe
 - [Lexicon Specification](https://atproto.com/specs/lexicon) - The official documentation for the Lexicon schema language.
   <!-- AUTOGENERATION_START: lexicons -->
 - [danielroe/airspace](https://github.com/danielroe/airspace) - The database you already have.
-- [joshlacal/Petrel](https://github.com/joshlacal/Petrel) - Swift library for the ATProtocol and Bluesky, generated from Lexicons
+- [ewanc26/malachite](https://github.com/ewanc26/malachite) - Malachite is a tool to import your Last.fm and Spotify listening history to the AT Protocol network using the `fm.teal.alpha.feed.play` lexicon.
 - [lexicon-community/lexicon](https://github.com/lexicon-community/lexicon) - An ATProtocol community Lexicon
 - [marukun712/stellar](https://github.com/marukun712/stellar) - Stellarは、Blueskyの投稿に対して簡易的な絵文字リアクションを付けるための、シンプルなLexicon・仕様群です。
 - [MasterJ93/ATProtoKit](https://github.com/MasterJ93/ATProtoKit) - A straightforward solution for using the AT Protocol and Bluesky, written in Swift.
