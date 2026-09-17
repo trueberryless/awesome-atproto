@@ -165,10 +165,10 @@ The AT Protocol relies heavily on composable moderation. Instead of a single cen
   <!-- AUTOGENERATION_START: ozone -->
 - [bsky-watch/labeler](https://github.com/bsky-watch/labeler) - Basic ATproto labeler and a toolkit to make your own
 - [eddieoz/atproto-scam-detector](https://github.com/eddieoz/atproto-scam-detector) - Crypto-Labeler is an advanced, AI-powered labeling and moderation tool dedicated to protecting the BlueSky community. By identifying and addressing crypto spammers, scammers, phishing attempts, and...
-- [ewanc26/wolfram](https://github.com/ewanc26/wolfram) - Primarily C AT Protocol SDK: client-side, wire-level implementation (XRPC, OAuth/DPoP, identity, repos/MST/CAR, firehose/Jetstream, moderation, CLI, generated clients). Not a port of the PDS/AppVie...
 - [haileyok/phoebe](https://github.com/haileyok/phoebe) - A trust and safety agent that interacts with Osprey for investigation, real-time analysis, and prevention implementations
 - [itaru2622/bluesky-selfhost-env](https://github.com/itaru2622/bluesky-selfhost-env) - bluesky self-hosting tool for easy deploy in anywhere.
 - [julietshen/troposphere](https://github.com/julietshen/troposphere) - A self-hostable alternative to Ozone designed to work with Coop
+- [pmsky-social/pmsky](https://github.com/pmsky-social/pmsky) - A platform for peer moderation on Bluesky
 - [skywatch-bsky/skywatch-automod](https://github.com/skywatch-bsky/skywatch-automod) - Skywatch Automod is the public release of automoderation software used by skywatch.blue on the Bluesky Network
 - [zoedsoupe/proto_rune](https://github.com/zoedsoupe/proto_rune) - ATProtocol and Bluesky framework for Elixir, make bots, labelers, app views and more
   <!-- AUTOGENERATION_END: ozone -->
@@ -304,12 +304,6 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 - [Standard Reader](https://standard-reader.app) - Fresh writing from the publications you follow, every day.
 - [writizzy](https://writizzy.com) - The web deserves more independent publishing
 
-### Social
-
-- [Bridgy Fed](https://ap.brid.gy) - Bridging the new social internet
-- [Spark](https://sprk.so) - Real Moments, Shared Together
-- [You & Me](https://youandme.at) - Connect with people around you on the AT Protocol.
-
 ### Other
 
 - [Anisota](https://anisota.net) - A radical yet peaceful user interface for Bluesky, ATProto, and ATmosphere-based social media
@@ -340,11 +334,13 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 - [plyr.fm](https://plyr.fm) - start typing to search across all content
 - [postgame](https://postgame.at) - Track and manage your gaming backlog
 - [Semble](https://semble.so) - Social knowledge network for your research trails
+- [Spark](https://sprk.so) - Real Moments, Shared Together
 - [Squire](https://squire.guide) - the task-sorting assistant for the modern adventuring knight
 - [Stream.place](https://stream.place) - Open Source Livestreaming on the AT Protocol
 - [Tracker - Manager for Bluesky](https://blueskytracker.app) - Track & Manage in real time your network. The must have companion app for Bluesky.
 - [Winesky](https://winesky.app) - Your personal AI sommelier and wine cellar manager.
 - [Witchsky](https://witchsky.app) - Bluesky app with some witchin' additions 💫
+- [You & Me](https://youandme.at) - Connect with people around you on the AT Protocol.
   <!-- AUTOGENERATION_END: clients -->
 
 ## 🌍 Community & Ecosystem
