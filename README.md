@@ -100,8 +100,8 @@ Official and community-maintained client libraries for building applications acr
 
 - [MarshalX/atproto](https://github.com/MarshalX/atproto) - Comprehensive, community-led Python SDK (synchronous and asynchronous).
   <!-- AUTOGENERATION_START: sdks_python -->
-- [bonelifer/BlueSky-Suite](https://github.com/bonelifer/BlueSky-Suite) - A suite of Python scripts for managing your BlueSky account, including unfollowing inactive accounts, detecting grifting links, identifying suspended accounts, and more. These scripts use the atpro...
 - [DavidBuchanan314/atmst](https://github.com/DavidBuchanan314/atmst) - A Python library for wrangling atproto-flavoured Merkle Search Trees
+- [elouangrimm/zAi](https://github.com/elouangrimm/zAi) - ai bot on bluesky with openrouter's api!
 - [l0ji/bluroma-py](https://github.com/l0ji/bluroma-py) - A Pleroma-like Bluesky client
 - [mnogu/chitose](https://github.com/mnogu/chitose) - Python client library for the AT Protocol (Bluesky)
 - [ruggsea/bluesky-firehose-py](https://github.com/ruggsea/bluesky-firehose-py) - A Python library/CLI for collecting and archiving posts from the Bluesky social network using the Jetstream API.
@@ -165,10 +165,10 @@ The AT Protocol relies heavily on composable moderation. Instead of a single cen
   <!-- AUTOGENERATION_START: ozone -->
 - [bsky-watch/labeler](https://github.com/bsky-watch/labeler) - Basic ATproto labeler and a toolkit to make your own
 - [eddieoz/atproto-scam-detector](https://github.com/eddieoz/atproto-scam-detector) - Crypto-Labeler is an advanced, AI-powered labeling and moderation tool dedicated to protecting the BlueSky community. By identifying and addressing crypto spammers, scammers, phishing attempts, and...
+- [ewanc26/wolfram](https://github.com/ewanc26/wolfram) - Primarily C AT Protocol SDK: client-side, wire-level implementation (XRPC, OAuth/DPoP, identity, repos/MST/CAR, firehose/Jetstream, moderation, CLI, generated clients). Not a port of the PDS/AppVie...
 - [haileyok/phoebe](https://github.com/haileyok/phoebe) - A trust and safety agent that interacts with Osprey for investigation, real-time analysis, and prevention implementations
 - [itaru2622/bluesky-selfhost-env](https://github.com/itaru2622/bluesky-selfhost-env) - bluesky self-hosting tool for easy deploy in anywhere.
 - [julietshen/troposphere](https://github.com/julietshen/troposphere) - A self-hostable alternative to Ozone designed to work with Coop
-- [pmsky-social/pmsky](https://github.com/pmsky-social/pmsky) - A platform for peer moderation on Bluesky
 - [skywatch-bsky/skywatch-automod](https://github.com/skywatch-bsky/skywatch-automod) - Skywatch Automod is the public release of automoderation software used by skywatch.blue on the Bluesky Network
 - [zoedsoupe/proto_rune](https://github.com/zoedsoupe/proto_rune) - ATProtocol and Bluesky framework for Elixir, make bots, labelers, app views and more
   <!-- AUTOGENERATION_END: ozone -->
@@ -180,7 +180,7 @@ Lexicons are the schema language of the AT Protocol (similar to OpenAPI for a fe
 - [Lexicon Specification](https://atproto.com/specs/lexicon) - The official documentation for the Lexicon schema language.
   <!-- AUTOGENERATION_START: lexicons -->
 - [danielroe/airspace](https://github.com/danielroe/airspace) - The database you already have.
-- [ewanc26/malachite](https://github.com/ewanc26/malachite) - Malachite is a tool to import your Last.fm and Spotify listening history to the AT Protocol network using the `fm.teal.alpha.feed.play` lexicon.
+- [david-engelmann/atproto](https://github.com/david-engelmann/atproto) - OCaml AT Protocol client — opam install atproto
 - [lexicon-community/lexicon](https://github.com/lexicon-community/lexicon) - An ATProtocol community Lexicon
 - [marukun712/stellar](https://github.com/marukun712/stellar) - Stellarは、Blueskyの投稿に対して簡易的な絵文字リアクションを付けるための、シンプルなLexicon・仕様群です。
 - [MasterJ93/ATProtoKit](https://github.com/MasterJ93/ATProtoKit) - A straightforward solution for using the AT Protocol and Bluesky, written in Swift.
