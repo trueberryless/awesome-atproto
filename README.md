@@ -100,8 +100,8 @@ Official and community-maintained client libraries for building applications acr
 
 - [MarshalX/atproto](https://github.com/MarshalX/atproto) - Comprehensive, community-led Python SDK (synchronous and asynchronous).
   <!-- AUTOGENERATION_START: sdks_python -->
+- [bonelifer/BlueSky-Suite](https://github.com/bonelifer/BlueSky-Suite) - A suite of Python scripts for managing your BlueSky account, including unfollowing inactive accounts, detecting grifting links, identifying suspended accounts, and more. These scripts use the atpro...
 - [DavidBuchanan314/atmst](https://github.com/DavidBuchanan314/atmst) - A Python library for wrangling atproto-flavoured Merkle Search Trees
-- [elouangrimm/zAi](https://github.com/elouangrimm/zAi) - ai bot on bluesky with openrouter's api!
 - [l0ji/bluroma-py](https://github.com/l0ji/bluroma-py) - A Pleroma-like Bluesky client
 - [mnogu/chitose](https://github.com/mnogu/chitose) - Python client library for the AT Protocol (Bluesky)
 - [ruggsea/bluesky-firehose-py](https://github.com/ruggsea/bluesky-firehose-py) - A Python library/CLI for collecting and archiving posts from the Bluesky social network using the Jetstream API.
@@ -304,6 +304,12 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 - [Standard Reader](https://standard-reader.app) - Fresh writing from the publications you follow, every day.
 - [writizzy](https://writizzy.com) - The web deserves more independent publishing
 
+### Social
+
+- [Bridgy Fed](https://ap.brid.gy) - Bridging the new social internet
+- [Spark](https://sprk.so) - Real Moments, Shared Together
+- [You & Me](https://youandme.at) - Connect with people around you on the AT Protocol.
+
 ### Other
 
 - [Anisota](https://anisota.net) - A radical yet peaceful user interface for Bluesky, ATProto, and ATmosphere-based social media
@@ -334,13 +340,11 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 - [plyr.fm](https://plyr.fm) - start typing to search across all content
 - [postgame](https://postgame.at) - Track and manage your gaming backlog
 - [Semble](https://semble.so) - Social knowledge network for your research trails
-- [Spark](https://sprk.so) - Real Moments, Shared Together
 - [Squire](https://squire.guide) - the task-sorting assistant for the modern adventuring knight
 - [Stream.place](https://stream.place) - Open Source Livestreaming on the AT Protocol
 - [Tracker - Manager for Bluesky](https://blueskytracker.app) - Track & Manage in real time your network. The must have companion app for Bluesky.
 - [Winesky](https://winesky.app) - Your personal AI sommelier and wine cellar manager.
 - [Witchsky](https://witchsky.app) - Bluesky app with some witchin' additions 💫
-- [You & Me](https://youandme.at) - Connect with people around you on the AT Protocol.
   <!-- AUTOGENERATION_END: clients -->
 
 ## 🌍 Community & Ecosystem
