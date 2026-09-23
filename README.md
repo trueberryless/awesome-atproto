@@ -119,9 +119,11 @@ Official and community-maintained client libraries for building applications acr
 - [at-microcosm/microcosm-rs](https://github.com/at-microcosm/microcosm-rs) - Rust atproto crates and services for microcosm
 - [enzottic/stratosphere](https://github.com/enzottic/stratosphere) - A bluesky client using the atrium API. WIP.
 - [FormerLab/pgsky](https://github.com/FormerLab/pgsky) - An AT Protocol / Bluesky client implemented as a PostgreSQL extension. The database is the application
+- [jediwright/local-first-social-native](https://github.com/jediwright/local-first-social-native) - Native iOS/Android client for a local-first social network: Rust core on Automerge + Keyhive, UniFFI, SwiftUI/Compose, atproto identity.
 - [MarshalX/python-libipld](https://github.com/MarshalX/python-libipld) - 🏎️ Fast Python library to work with IPLD: DAG-CBOR, CID, CAR, multibase
 - [metruzanca/atcrab](https://github.com/metruzanca/atcrab) - High level AT Protocol library, made for convenience.
 - [mike10010100/skyauth](https://github.com/mike10010100/skyauth) - Pure safe Rust (#![forbid(unsafe_code)]) AT Protocol OAuth 2.1 client library with RFC 9449 DPoP, RFC 9126 PAR, RFC 7636 PKCE & formal mathematical verification
+- [nao1215/bluesky-terminal-client](https://github.com/nao1215/bluesky-terminal-client) - Unofficial Bluesky client for the terminal that shows pictures and videos right in it (kitty graphics, sixel, iTerm2)
 - [ngerakines/atproto-rs](https://github.com/ngerakines/atproto-rs) - A suite of libraries, tools, and daemons for atproto.
 - [Smalls1652/atprotolib-rs](https://github.com/Smalls1652/atprotolib-rs) - Rust library for ATProtocol types
   <!-- AUTOGENERATION_END: sdks_rust -->
