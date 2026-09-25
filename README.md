@@ -299,6 +299,12 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 - [Pronouns](https://pronouns.blue) - Share your names and pronouns on ATproto
 - [Sifa ID](https://sifa.id) - Professional identity on the AT Protocol
 
+### Photo
+
+- [Currents](https://currents.is) - Save inspiration and curate personalized visual feeds.
+- [Grain](https://grain.social) - Photography focused photo sharing platform
+- [Zeens](https://zeens.app) - A photography community built on ATProtocol.
+
 ### Publishing
 
 - [Leaflet](https://leaflet.pub) - Read and publish on the Atmosphere — social blogs, one-off posts, and more
@@ -325,12 +331,10 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 - [Boost Blue](https://boostblue.bsky.social) - Boost your Bluesky experience
 - [Cartes.app](https://cartes.app) - Open source map with AT place reviews
 - [Colibri](https://colibri.social) - Colibri is an open source chat platform built on the ATprotocol for communities big and small.
-- [Currents](https://currents.is) - Save inspiration and curate personalized visual feeds.
 - [favs.blue](https://favs.blue) - See any Bluesky account's most popular posts.
 - [Flux](https://fluxapp.blue) - A calm, beautiful Bluesky client app for iOS
 - [GainForest](https://gainforest.earth) - Protecting and restoring Earth's forests with transparent conservation data.
 - [Germ Network](https://germnetwork.com) - Share what you want to, when you need to, on Germ DM.
-- [Grain](https://grain.social) - Photography focused photo sharing platform
 - [Graze](https://graze.social) - Build custom social feeds. Grow your audience. Keep the revenue. No code required.
 - [Kimbia](https://kimbia.app) - Your training journal. Yours, forever.
 - [kipclip](https://kipclip.com) - Save and organize your bookmarks. Free, open, and your data stays yours.
