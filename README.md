@@ -262,6 +262,12 @@ Documentation and tools for managing Decentralized Identifiers (DIDs), handles, 
 A diverse ecosystem of social clients, utilities, games, and platforms built on top of the AT Protocol.
 
   <!-- AUTOGENERATION_START: clients -->
+### Creative
+
+- [Blento](https://blento.app) - Create your own website, the fun way
+- [Lexidraw](https://lexidraw.app) - Lexidraw, an Excalidraw fork where your drawings follow you
+- [rpg.actor](https://rpg.actor) - Build your character on rpg.actor and have fun playing in many worlds!
+
 ### Developer
 
 - [Airglow](https://airglow.run) - Automations for the AT Protocol.
@@ -333,14 +339,12 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 - [Graze](https://graze.social) - Build custom social feeds. Grow your audience. Keep the revenue. No code required.
 - [Kimbia](https://kimbia.app) - Your training journal. Yours, forever.
 - [kipclip](https://kipclip.com) - Save and organize your bookmarks. Free, open, and your data stays yours.
-- [Lexidraw](https://lexidraw.app) - Lexidraw, an Excalidraw fork where your drawings follow you
 - [Margin](https://margin.at) - Write in the margins of the web. Annotate any URL with AT Protocol.
 - [Open Market](https://openmkt.app) - Browse local listings on Open Market. Find great deals on items for sale in your area without fees or middlemen.
 - [pckt.blog](https://pckt.blog) - A distraction-free space to write and share your story. Just you, and your words.
 - [PDS MOOver](https://pds.dad) - ATProto tools for PDS migrations and backups
 - [PDSls](https://pds.ls) - Browse the public data on atproto
 - [plyr.fm](https://plyr.fm) - start typing to search across all content
-- [rpg.actor](https://rpg.actor) - Build your character on rpg.actor and have fun playing in many worlds!
 - [Semble](https://semble.so) - Social knowledge network for your research trails
 - [Squire](https://squire.guide) - the task-sorting assistant for the modern adventuring knight
 - [Stream.place](https://stream.place) - Open Source Livestreaming on the AT Protocol
