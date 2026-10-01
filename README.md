@@ -273,7 +273,6 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 - [Airglow](https://airglow.run) - Automations for the AT Protocol.
 - [ATCR](https://atcr.io) - Push and pull Docker images on the AT Protocol.
 - [co/core](https://cocore.dev) - co/core is a cooperative for AI inference — people pooling the Macs they already own to run open models for each other.
-- [comail](https://comail.at) - Cooperative email for atproto
 - [Marque](https://marque.at) - Claim your name on the open web
 - [npmx](https://npmx.dev) - a fast, modern browser for the npm registry. Search, browse, and explore packages with a modern interface.
 - [Tangled](https://tangled.org) - a git collaboration platform, built on atproto
@@ -340,7 +339,6 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 - [Kimbia](https://kimbia.app) - Your training journal. Yours, forever.
 - [kipclip](https://kipclip.com) - Save and organize your bookmarks. Free, open, and your data stays yours.
 - [Margin](https://margin.at) - Write in the margins of the web. Annotate any URL with AT Protocol.
-- [Open Market](https://openmkt.app) - Browse local listings on Open Market. Find great deals on items for sale in your area without fees or middlemen.
 - [pckt.blog](https://pckt.blog) - A distraction-free space to write and share your story. Just you, and your words.
 - [PDS MOOver](https://pds.dad) - ATProto tools for PDS migrations and backups
 - [PDSls](https://pds.ls) - Browse the public data on atproto
