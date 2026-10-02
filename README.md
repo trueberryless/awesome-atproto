@@ -70,6 +70,7 @@ Official and community-maintained client libraries for building applications acr
 - [@atproto/api](https://github.com/bluesky-social/atproto/tree/main/packages/api) - Official TypeScript client for interacting with PDS and AppView instances.
 - [@atproto/oauth-client-browser](https://github.com/bluesky-social/atproto/tree/main/packages/oauth/oauth-client-browser) - Official library for implementing AT Protocol OAuth in the browser.
   <!-- AUTOGENERATION_START: sdks_ts -->
+- [atpota-to/aturi](https://github.com/atpota-to/aturi) - A free, open-source toolkit for navigating the Atmosphere. Switch clients, share universal links, discover lexicons, detect URIs, browse any PDS.
 - [atproto-os/client](https://github.com/atproto-os/client) - Bluesky & AT Protocol Web Desktop Suite based on Open Web Desktop
 - [callmearta/kite](https://github.com/callmearta/kite) - a BlueSky web client
 - [cameronrye/atproto-mcp](https://github.com/cameronrye/atproto-mcp) - A MCP server that gives LLMs direct access to the AT Protocol ecosystem, enabling seamless interaction with Bluesky and other AT Protocol-based social networks.
@@ -77,7 +78,6 @@ Official and community-maintained client libraries for building applications acr
 - [lucid-softworks/akari](https://github.com/lucid-softworks/akari) - an atproto client for ios, android, and web — the next version of akari.blue
 - [nDimensional/atproto-oauth-client-cloudflare-workers](https://github.com/nDimensional/atproto-oauth-client-cloudflare-workers) - ATProto OAuth Client for Cloudflare Workers
 - [Nester-xyz/Connectsky](https://github.com/Nester-xyz/Connectsky) - Connectsky is a chrome extension based Bluesky / AT Proto Client with its own accessibilities!
-- [olamaelcu/bibliograph](https://github.com/olamaelcu/bibliograph) - An AppView for interfacing with bibliographic information on ATProto
 - [pirhoo/trotsky](https://github.com/pirhoo/trotsky) - 🔨 A type-safe Javascript library to build automation at the top of ATProto/Bluesky API.
 - [seanvelasco/usky.app](https://github.com/seanvelasco/usky.app) - Web client for Bluesky using Solid.js
 - [sprksocial/atp](https://github.com/sprksocial/atp) - Suite of AT Protocol TypeScript libraries built on web standards
@@ -119,7 +119,7 @@ Official and community-maintained client libraries for building applications acr
 - [at-microcosm/microcosm-rs](https://github.com/at-microcosm/microcosm-rs) - Rust atproto crates and services for microcosm
 - [enzottic/stratosphere](https://github.com/enzottic/stratosphere) - A bluesky client using the atrium API. WIP.
 - [FormerLab/pgsky](https://github.com/FormerLab/pgsky) - An AT Protocol / Bluesky client implemented as a PostgreSQL extension. The database is the application
-- [jediwright/local-first-social-native](https://github.com/jediwright/local-first-social-native) - Native iOS/Android client for a local-first social network: Rust core on Automerge + Keyhive, UniFFI, SwiftUI/Compose, atproto identity.
+- [jcalabro/shrike](https://github.com/jcalabro/shrike) - AT Protocol Library for Rust
 - [MarshalX/python-libipld](https://github.com/MarshalX/python-libipld) - 🏎️ Fast Python library to work with IPLD: DAG-CBOR, CID, CAR, multibase
 - [metruzanca/atcrab](https://github.com/metruzanca/atcrab) - High level AT Protocol library, made for convenience.
 - [mike10010100/skyauth](https://github.com/mike10010100/skyauth) - Pure safe Rust (#![forbid(unsafe_code)]) AT Protocol OAuth 2.1 client library with RFC 9449 DPoP, RFC 9126 PAR, RFC 7636 PKCE & formal mathematical verification
@@ -273,6 +273,7 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 - [Airglow](https://airglow.run) - Automations for the AT Protocol.
 - [ATCR](https://atcr.io) - Push and pull Docker images on the AT Protocol.
 - [co/core](https://cocore.dev) - co/core is a cooperative for AI inference — people pooling the Macs they already own to run open models for each other.
+- [comail](https://comail.at) - Cooperative email for atproto
 - [Marque](https://marque.at) - Claim your name on the open web
 - [npmx](https://npmx.dev) - a fast, modern browser for the npm registry. Search, browse, and explore packages with a modern interface.
 - [Tangled](https://tangled.org) - a git collaboration platform, built on atproto
