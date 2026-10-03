@@ -59,6 +59,7 @@ Ready-to-use boilerplates and reference implementations to kickstart your next A
 - [pirmax/bluesky-oauth-nextjs](https://github.com/pirmax/bluesky-oauth-nextjs) - A modern, full-stack boilerplate for building web applications with Bluesky OAuth authentication using Next.js, Prisma, and PostgreSQL.
 - [rdmurphy/atproto-starter-kit-deno](https://github.com/rdmurphy/atproto-starter-kit-deno) - A basic setup for interacting with Bluesky via ATProtocol written in TypeScript and Deno.
 - [Spirallex/rust-pds-cloudflare](https://github.com/Spirallex/rust-pds-cloudflare) - GitHub template: deploy a Rust AT Protocol PDS (stelyph-core) to Cloudflare Workers.
+- [xXVampiricShadowXx/bsky-news-feed-bot](https://github.com/xXVampiricShadowXx/bsky-news-feed-bot) - Auto-post world news from public-service & non-profit newsrooms to Bluesky - with correct credit on every post. Local dashboard, Docker, one-click starter pack.
   <!-- AUTOGENERATION_END: starter_kits -->
 
 ## 💻 SDKs & Libraries
@@ -340,6 +341,7 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 - [Kimbia](https://kimbia.app) - Your training journal. Yours, forever.
 - [kipclip](https://kipclip.com) - Save and organize your bookmarks. Free, open, and your data stays yours.
 - [Margin](https://margin.at) - Write in the margins of the web. Annotate any URL with AT Protocol.
+- [Open Market](https://openmkt.app) - Browse local listings on Open Market. Find great deals on items for sale in your area without fees or middlemen.
 - [pckt.blog](https://pckt.blog) - A distraction-free space to write and share your story. Just you, and your words.
 - [PDS MOOver](https://pds.dad) - ATProto tools for PDS migrations and backups
 - [PDSls](https://pds.ls) - Browse the public data on atproto
