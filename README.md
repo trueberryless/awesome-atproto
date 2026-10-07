@@ -121,8 +121,8 @@ Official and community-maintained client libraries for building applications acr
 - [enzottic/stratosphere](https://github.com/enzottic/stratosphere) - A bluesky client using the atrium API. WIP.
 - [FormerLab/pgsky](https://github.com/FormerLab/pgsky) - An AT Protocol / Bluesky client implemented as a PostgreSQL extension. The database is the application
 - [jcalabro/shrike](https://github.com/jcalabro/shrike) - AT Protocol Library for Rust
+- [jediwright/local-first-social-native](https://github.com/jediwright/local-first-social-native) - Native iOS/Android client for a local-first social network: Rust core on Automerge + Keyhive, UniFFI, SwiftUI/Compose, atproto identity.
 - [MarshalX/python-libipld](https://github.com/MarshalX/python-libipld) - 🏎️ Fast Python library to work with IPLD: DAG-CBOR, CID, CAR, multibase
-- [metruzanca/atcrab](https://github.com/metruzanca/atcrab) - High level AT Protocol library, made for convenience.
 - [mike10010100/skyauth](https://github.com/mike10010100/skyauth) - Pure safe Rust (#![forbid(unsafe_code)]) AT Protocol OAuth 2.1 client library with RFC 9449 DPoP, RFC 9126 PAR, RFC 7636 PKCE & formal mathematical verification
 - [nao1215/bluesky-terminal-client](https://github.com/nao1215/bluesky-terminal-client) - Unofficial Bluesky client for the terminal that shows pictures and videos right in it (kitty graphics, sixel, iTerm2)
 - [ngerakines/atproto-rs](https://github.com/ngerakines/atproto-rs) - A suite of libraries, tools, and daemons for atproto.
@@ -168,10 +168,10 @@ The AT Protocol relies heavily on composable moderation. Instead of a single cen
   <!-- AUTOGENERATION_START: ozone -->
 - [bsky-watch/labeler](https://github.com/bsky-watch/labeler) - Basic ATproto labeler and a toolkit to make your own
 - [eddieoz/atproto-scam-detector](https://github.com/eddieoz/atproto-scam-detector) - Crypto-Labeler is an advanced, AI-powered labeling and moderation tool dedicated to protecting the BlueSky community. By identifying and addressing crypto spammers, scammers, phishing attempts, and...
-- [ewanc26/wolfram](https://github.com/ewanc26/wolfram) - Primarily C AT Protocol SDK: client-side, wire-level implementation (XRPC, OAuth/DPoP, identity, repos/MST/CAR, firehose/Jetstream, moderation, CLI, generated clients). Not a port of the PDS/AppVie...
 - [haileyok/phoebe](https://github.com/haileyok/phoebe) - A trust and safety agent that interacts with Osprey for investigation, real-time analysis, and prevention implementations
 - [itaru2622/bluesky-selfhost-env](https://github.com/itaru2622/bluesky-selfhost-env) - bluesky self-hosting tool for easy deploy in anywhere.
 - [julietshen/troposphere](https://github.com/julietshen/troposphere) - A self-hostable alternative to Ozone designed to work with Coop
+- [pmsky-social/pmsky](https://github.com/pmsky-social/pmsky) - A platform for peer moderation on Bluesky
 - [skywatch-bsky/skywatch-automod](https://github.com/skywatch-bsky/skywatch-automod) - Skywatch Automod is the public release of automoderation software used by skywatch.blue on the Bluesky Network
 - [zoedsoupe/proto_rune](https://github.com/zoedsoupe/proto_rune) - ATProtocol and Bluesky framework for Elixir, make bots, labelers, app views and more
   <!-- AUTOGENERATION_END: ozone -->
@@ -310,7 +310,6 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 ### Publishing
 
 - [Leaflet](https://leaflet.pub) - Read and publish on the Atmosphere — social blogs, one-off posts, and more
-- [Offprint](https://offprint.app) - Publishing infrastructure for the open web.
 - [Standard Reader](https://standard-reader.app) - Fresh writing from the publications you follow, every day.
 - [writizzy](https://writizzy.com) - The web deserves more independent publishing
 
