@@ -310,6 +310,7 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 ### Publishing
 
 - [Leaflet](https://leaflet.pub) - Read and publish on the Atmosphere — social blogs, one-off posts, and more
+- [Offprint](https://offprint.app) - Publishing infrastructure for the open web.
 - [Standard Reader](https://standard-reader.app) - Fresh writing from the publications you follow, every day.
 - [writizzy](https://writizzy.com) - The web deserves more independent publishing
 
