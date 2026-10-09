@@ -71,7 +71,6 @@ Official and community-maintained client libraries for building applications acr
 - [@atproto/api](https://github.com/bluesky-social/atproto/tree/main/packages/api) - Official TypeScript client for interacting with PDS and AppView instances.
 - [@atproto/oauth-client-browser](https://github.com/bluesky-social/atproto/tree/main/packages/oauth/oauth-client-browser) - Official library for implementing AT Protocol OAuth in the browser.
   <!-- AUTOGENERATION_START: sdks_ts -->
-- [atpota-to/aturi](https://github.com/atpota-to/aturi) - A free, open-source toolkit for navigating the Atmosphere. Switch clients, share universal links, discover lexicons, detect URIs, browse any PDS.
 - [atproto-os/client](https://github.com/atproto-os/client) - Bluesky & AT Protocol Web Desktop Suite based on Open Web Desktop
 - [callmearta/kite](https://github.com/callmearta/kite) - a BlueSky web client
 - [cameronrye/atproto-mcp](https://github.com/cameronrye/atproto-mcp) - A MCP server that gives LLMs direct access to the AT Protocol ecosystem, enabling seamless interaction with Bluesky and other AT Protocol-based social networks.
@@ -79,6 +78,7 @@ Official and community-maintained client libraries for building applications acr
 - [lucid-softworks/akari](https://github.com/lucid-softworks/akari) - an atproto client for ios, android, and web — the next version of akari.blue
 - [nDimensional/atproto-oauth-client-cloudflare-workers](https://github.com/nDimensional/atproto-oauth-client-cloudflare-workers) - ATProto OAuth Client for Cloudflare Workers
 - [Nester-xyz/Connectsky](https://github.com/Nester-xyz/Connectsky) - Connectsky is a chrome extension based Bluesky / AT Proto Client with its own accessibilities!
+- [olamaelcu/bibliograph](https://github.com/olamaelcu/bibliograph) - An AppView for interfacing with bibliographic information on ATProto
 - [pirhoo/trotsky](https://github.com/pirhoo/trotsky) - 🔨 A type-safe Javascript library to build automation at the top of ATProto/Bluesky API.
 - [seanvelasco/usky.app](https://github.com/seanvelasco/usky.app) - Web client for Bluesky using Solid.js
 - [sprksocial/atp](https://github.com/sprksocial/atp) - Suite of AT Protocol TypeScript libraries built on web standards
@@ -166,12 +166,12 @@ The AT Protocol relies heavily on composable moderation. Instead of a single cen
 - [bluesky-social/ozone](https://github.com/bluesky-social/ozone) - Official collaborative moderation tool and labeling service for the AT Protocol.
 - [blacksky-algorithms/rsky](https://github.com/blacksky-algorithms/rsky) - An AT Protocol implementation prioritizing community safety and self-governance, written in Rust.
   <!-- AUTOGENERATION_START: ozone -->
+- [breakzplatform/orkut](https://github.com/breakzplatform/orkut) - Bluesky labeler that hands out Orkut-style profile badges (trustworthy, cool, sexy) to whoever likes its post.
 - [bsky-watch/labeler](https://github.com/bsky-watch/labeler) - Basic ATproto labeler and a toolkit to make your own
 - [eddieoz/atproto-scam-detector](https://github.com/eddieoz/atproto-scam-detector) - Crypto-Labeler is an advanced, AI-powered labeling and moderation tool dedicated to protecting the BlueSky community. By identifying and addressing crypto spammers, scammers, phishing attempts, and...
 - [haileyok/phoebe](https://github.com/haileyok/phoebe) - A trust and safety agent that interacts with Osprey for investigation, real-time analysis, and prevention implementations
 - [itaru2622/bluesky-selfhost-env](https://github.com/itaru2622/bluesky-selfhost-env) - bluesky self-hosting tool for easy deploy in anywhere.
 - [julietshen/troposphere](https://github.com/julietshen/troposphere) - A self-hostable alternative to Ozone designed to work with Coop
-- [pmsky-social/pmsky](https://github.com/pmsky-social/pmsky) - A platform for peer moderation on Bluesky
 - [skywatch-bsky/skywatch-automod](https://github.com/skywatch-bsky/skywatch-automod) - Skywatch Automod is the public release of automoderation software used by skywatch.blue on the Bluesky Network
 - [zoedsoupe/proto_rune](https://github.com/zoedsoupe/proto_rune) - ATProtocol and Bluesky framework for Elixir, make bots, labelers, app views and more
   <!-- AUTOGENERATION_END: ozone -->
