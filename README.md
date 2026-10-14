@@ -305,6 +305,7 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 ### Photo
 
 - [Currents](https://currents.is) - Save inspiration and curate personalized visual feeds.
+- [Flashes](https://flashes.blue) - A Photo & Video App for Bluesky
 - [Grain](https://grain.social) - Photography focused photo sharing platform
 - [Zeens](https://zeens.app) - A photography community built on ATProtocol.
 
@@ -343,7 +344,6 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 - [Kimbia](https://kimbia.app) - Your training journal. Yours, forever.
 - [kipclip](https://kipclip.com) - Save and organize your bookmarks. Free, open, and your data stays yours.
 - [Margin](https://margin.at) - Write in the margins of the web. Annotate any URL with AT Protocol.
-- [Open Market](https://openmkt.app) - Browse local listings on Open Market. Find great deals on items for sale in your area without fees or middlemen.
 - [pckt.blog](https://pckt.blog) - A distraction-free space to write and share your story. Just you, and your words.
 - [PDS MOOver](https://pds.dad) - ATProto tools for PDS migrations and backups
 - [PDSls](https://pds.ls) - Browse the public data on atproto
