@@ -102,8 +102,8 @@ Official and community-maintained client libraries for building applications acr
 - [MarshalX/atproto](https://github.com/MarshalX/atproto) - Comprehensive, community-led Python SDK (synchronous and asynchronous).
   <!-- AUTOGENERATION_START: sdks_python -->
 - [DavidBuchanan314/atmst](https://github.com/DavidBuchanan314/atmst) - A Python library for wrangling atproto-flavoured Merkle Search Trees
-- [elouangrimm/zAi](https://github.com/elouangrimm/zAi) - ai bot on bluesky with openrouter's api!
 - [l0ji/bluroma-py](https://github.com/l0ji/bluroma-py) - A Pleroma-like Bluesky client
+- [Lordporus/omnipost](https://github.com/Lordporus/omnipost) - Autonomous cross-platform publishing syndicate for AI agents (X, Bluesky, LinkedIn, Threads) with zero API costs, CDP browser automation, vector carousels, and atomic state ledgers
 - [mnogu/chitose](https://github.com/mnogu/chitose) - Python client library for the AT Protocol (Bluesky)
 - [ruggsea/bluesky-firehose-py](https://github.com/ruggsea/bluesky-firehose-py) - A Python library/CLI for collecting and archiving posts from the Bluesky social network using the Jetstream API.
 - [sndcds/kulturbytes-social](https://github.com/sndcds/kulturbytes-social) - Open-source Python CLI for publishing generic JSON/API content to Facebook, Instagram, Mastodon and Bluesky.
@@ -218,6 +218,7 @@ Tools for tapping into the global stream of AT Protocol events and building cust
 - [bluesky-social/jetstream](https://github.com/bluesky-social/jetstream) - The official, lightweight JSON firehose proxy. Essential for most app developers.
   <!-- AUTOGENERATION_START: firehose -->
 - [bigmoves/quickslice](https://github.com/bigmoves/quickslice) - Auto-indexing service and GraphQL API for AT Protocol Records
+- [cameronrye/atproto-mcp](https://github.com/cameronrye/atproto-mcp) - A MCP server that gives LLMs direct access to the AT Protocol ecosystem, enabling seamless interaction with Bluesky and other AT Protocol-based social networks.
 - [cometsh/comet](https://github.com/cometsh/comet) - Music streaming on ATProto!
 - [cometsh/drinkup](https://github.com/cometsh/drinkup) - Elixir ATProtocol firehose & subscription listener
 - [hugeblank/grayhaze.live](https://github.com/hugeblank/grayhaze.live) - Live stream over ATProto
@@ -225,7 +226,6 @@ Tools for tapping into the global stream of AT Protocol events and building cust
 - [mackuba/skyfall](https://github.com/mackuba/skyfall) - A Ruby gem for streaming data from the Bluesky/ATProto firehose. Mirror of: https://tangled.org/mackuba.eu/skyfall
 - [natepmay/hose-race](https://github.com/natepmay/hose-race) - Racing on the Bluesky firehose.
 - [ruggsea/bluesky-firehose-py](https://github.com/ruggsea/bluesky-firehose-py) - A Python library/CLI for collecting and archiving posts from the Bluesky social network using the Jetstream API.
-- [tomo-x7/JetstreamProxy](https://github.com/tomo-x7/JetstreamProxy) - This is a server that proxies Jetstream. When setting up multiple feed generators locally, it can reduce network traffic.
 - [uabluerail/indexer](https://github.com/uabluerail/indexer) - ATproto PDS indexer
   <!-- AUTOGENERATION_END: firehose -->
 
@@ -263,12 +263,6 @@ Documentation and tools for managing Decentralized Identifiers (DIDs), handles, 
 A diverse ecosystem of social clients, utilities, games, and platforms built on top of the AT Protocol.
 
   <!-- AUTOGENERATION_START: clients -->
-### Creative
-
-- [Blento](https://blento.app) - Create your own website, the fun way
-- [Lexidraw](https://lexidraw.app) - Lexidraw, an Excalidraw fork where your drawings follow you
-- [rpg.actor](https://rpg.actor) - Build your character on rpg.actor and have fun playing in many worlds!
-
 ### Developer
 
 - [Airglow](https://airglow.run) - Automations for the AT Protocol.
@@ -343,11 +337,13 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 - [Graze](https://graze.social) - Build custom social feeds. Grow your audience. Keep the revenue. No code required.
 - [Kimbia](https://kimbia.app) - Your training journal. Yours, forever.
 - [kipclip](https://kipclip.com) - Save and organize your bookmarks. Free, open, and your data stays yours.
+- [Lexidraw](https://lexidraw.app) - Lexidraw, an Excalidraw fork where your drawings follow you
 - [Margin](https://margin.at) - Write in the margins of the web. Annotate any URL with AT Protocol.
 - [pckt.blog](https://pckt.blog) - A distraction-free space to write and share your story. Just you, and your words.
 - [PDS MOOver](https://pds.dad) - ATProto tools for PDS migrations and backups
 - [PDSls](https://pds.ls) - Browse the public data on atproto
 - [plyr.fm](https://plyr.fm) - start typing to search across all content
+- [rpg.actor](https://rpg.actor) - Build your character on rpg.actor and have fun playing in many worlds!
 - [Semble](https://semble.so) - Social knowledge network for your research trails
 - [Squire](https://squire.guide) - the task-sorting assistant for the modern adventuring knight
 - [Stream.place](https://stream.place) - Open Source Livestreaming on the AT Protocol
