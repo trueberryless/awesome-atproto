@@ -263,6 +263,18 @@ Documentation and tools for managing Decentralized Identifiers (DIDs), handles, 
 A diverse ecosystem of social clients, utilities, games, and platforms built on top of the AT Protocol.
 
   <!-- AUTOGENERATION_START: clients -->
+### Community
+
+- [ATlas](https://atls.city) - Bringing the ATmosphere together
+- [Blacksky](https://blackskyweb.xyz) - Decentralized social media built for community power, culture, and collective freedom.
+- [lichen.wiki](https://lichen.wiki) - Collaborative knowledge platform on AT Proto
+
+### Creative
+
+- [Blento](https://blento.app) - Create your own website, the fun way
+- [Lexidraw](https://lexidraw.app) - Lexidraw, an Excalidraw fork where your drawings follow you
+- [rpg.actor](https://rpg.actor) - Build your character on rpg.actor and have fun playing in many worlds!
+
 ### Developer
 
 - [Airglow](https://airglow.run) - Automations for the AT Protocol.
@@ -271,7 +283,6 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 - [comail](https://comail.at) - Cooperative email for atproto
 - [Marque](https://marque.at) - Claim your name on the open web
 - [npmx](https://npmx.dev) - a fast, modern browser for the npm registry. Search, browse, and explore packages with a modern interface.
-- [Tangled](https://tangled.org) - a git collaboration platform, built on atproto
 - [userstyles.club](https://userstyles.club) - The club for sharing, discovering, and installing userstyles.
 - [wisp.place](https://wisp.place) - Somewhere to put your stuff. A folder becomes a website
 
@@ -321,11 +332,9 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 
 - [Anisota](https://anisota.net) - A radical yet peaceful user interface for Bluesky, ATProto, and ATmosphere-based social media
 - [Ask Everything](https://askeverything.app) - Ask, answer, & explore questions about everything.
-- [ATlas](https://atls.city) - Bringing the ATmosphere together
 - [atpr.to](https://atpr.to) - AT Protocol URL shortener — links stored in your own PDS.
 - [ATStore](https://atstore.fyi) - Find your next favorite app.
 - [Beacon Bits](https://beaconbits.app) - Put your posts on the map
-- [Blacksky](https://blackskyweb.xyz) - Decentralized social media built for community power, culture, and collective freedom.
 - [BookHive](https://bookhive.buzz) - The social platform for book lovers
 - [Boost Blue](https://boostblue.bsky.social) - Boost your Bluesky experience
 - [Cartes.app](https://cartes.app) - Open source map with AT place reviews
@@ -337,13 +346,11 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 - [Graze](https://graze.social) - Build custom social feeds. Grow your audience. Keep the revenue. No code required.
 - [Kimbia](https://kimbia.app) - Your training journal. Yours, forever.
 - [kipclip](https://kipclip.com) - Save and organize your bookmarks. Free, open, and your data stays yours.
-- [Lexidraw](https://lexidraw.app) - Lexidraw, an Excalidraw fork where your drawings follow you
 - [Margin](https://margin.at) - Write in the margins of the web. Annotate any URL with AT Protocol.
 - [pckt.blog](https://pckt.blog) - A distraction-free space to write and share your story. Just you, and your words.
 - [PDS MOOver](https://pds.dad) - ATProto tools for PDS migrations and backups
 - [PDSls](https://pds.ls) - Browse the public data on atproto
 - [plyr.fm](https://plyr.fm) - start typing to search across all content
-- [rpg.actor](https://rpg.actor) - Build your character on rpg.actor and have fun playing in many worlds!
 - [Semble](https://semble.so) - Social knowledge network for your research trails
 - [Squire](https://squire.guide) - the task-sorting assistant for the modern adventuring knight
 - [Stream.place](https://stream.place) - Open Source Livestreaming on the AT Protocol
