@@ -283,6 +283,7 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 - [comail](https://comail.at) - Cooperative email for atproto
 - [Marque](https://marque.at) - Claim your name on the open web
 - [npmx](https://npmx.dev) - a fast, modern browser for the npm registry. Search, browse, and explore packages with a modern interface.
+- [Tangled](https://tangled.org) - a git collaboration platform, built on atproto
 - [userstyles.club](https://userstyles.club) - The club for sharing, discovering, and installing userstyles.
 - [wisp.place](https://wisp.place) - Somewhere to put your stuff. A folder becomes a website
 
