@@ -122,9 +122,9 @@ Official and community-maintained client libraries for building applications acr
 - [jcalabro/shrike](https://github.com/jcalabro/shrike) - AT Protocol Library for Rust
 - [jediwright/local-first-social-native](https://github.com/jediwright/local-first-social-native) - Native iOS/Android client for a local-first social network: Rust core on Automerge + Keyhive, UniFFI, SwiftUI/Compose, atproto identity.
 - [MarshalX/python-libipld](https://github.com/MarshalX/python-libipld) - 🏎️ Fast Python library to work with IPLD: DAG-CBOR, CID, CAR, multibase
+- [mike10010100/skyauth](https://github.com/mike10010100/skyauth) - Pure safe Rust (#![forbid(unsafe_code)]) AT Protocol OAuth 2.1 client library with RFC 9449 DPoP, RFC 9126 PAR, RFC 7636 PKCE & formal mathematical verification
 - [nao1215/bluesky-terminal-client](https://github.com/nao1215/bluesky-terminal-client) - Unofficial Bluesky client for the terminal that shows pictures and videos right in it (kitty graphics, sixel, iTerm2)
 - [ngerakines/atproto-rs](https://github.com/ngerakines/atproto-rs) - A suite of libraries, tools, and daemons for atproto.
-- [nickmorell/bifrost](https://github.com/nickmorell/bifrost) - A native desktop client for Bluesky and the AT Protocol, written in Rust with iced. Fast, private and free on Windows, macOS and Linux, with no telemetry and every outside integration off by default.
 - [skydeval/farsight](https://github.com/skydeval/farsight) - A self-hosted index of public block records on the AT Protocol network, with an API
 - [Smalls1652/atprotolib-rs](https://github.com/Smalls1652/atprotolib-rs) - Rust library for ATProtocol types
   <!-- AUTOGENERATION_END: sdks_rust -->
@@ -311,7 +311,6 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 ### Photo
 
 - [Currents](https://currents.is) - Save inspiration and curate personalized visual feeds.
-- [Flashes](https://flashes.blue) - A Photo & Video App for Bluesky
 - [Grain](https://grain.social) - Photography focused photo sharing platform
 - [Zeens](https://zeens.app) - A photography community built on ATProtocol.
 
