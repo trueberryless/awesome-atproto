@@ -78,7 +78,7 @@ Official and community-maintained client libraries for building applications acr
 - [harveyrandall/bsky-cli](https://github.com/harveyrandall/bsky-cli) - A command-line client for Bluesky
 - [lucid-softworks/akari](https://github.com/lucid-softworks/akari) - an atproto client for ios, android, and web — the next version of akari.blue
 - [nDimensional/atproto-oauth-client-cloudflare-workers](https://github.com/nDimensional/atproto-oauth-client-cloudflare-workers) - ATProto OAuth Client for Cloudflare Workers
-- [Nester-xyz/Connectsky](https://github.com/Nester-xyz/Connectsky) - Connectsky is a chrome extension based Bluesky / AT Proto Client with its own accessibilities!
+- [opencoredev/social-sdk](https://github.com/opencoredev/social-sdk) - Typed TypeScript SDK for direct and managed social platform integrations, with capability checks, explicit outcomes, and deterministic testing.
 - [pirhoo/trotsky](https://github.com/pirhoo/trotsky) - 🔨 A type-safe Javascript library to build automation at the top of ATProto/Bluesky API.
 - [seanvelasco/usky.app](https://github.com/seanvelasco/usky.app) - Web client for Bluesky using Solid.js
 - [sprksocial/atp](https://github.com/sprksocial/atp) - Suite of AT Protocol TypeScript libraries built on web standards
@@ -120,11 +120,11 @@ Official and community-maintained client libraries for building applications acr
 - [at-microcosm/microcosm-rs](https://github.com/at-microcosm/microcosm-rs) - Rust atproto crates and services for microcosm
 - [FormerLab/pgsky](https://github.com/FormerLab/pgsky) - An AT Protocol / Bluesky client implemented as a PostgreSQL extension. The database is the application
 - [jcalabro/shrike](https://github.com/jcalabro/shrike) - AT Protocol Library for Rust
-- [jediwright/local-first-social-native](https://github.com/jediwright/local-first-social-native) - Native iOS/Android client for a local-first social network: Rust core on Automerge + Keyhive, UniFFI, SwiftUI/Compose, atproto identity.
 - [MarshalX/python-libipld](https://github.com/MarshalX/python-libipld) - 🏎️ Fast Python library to work with IPLD: DAG-CBOR, CID, CAR, multibase
 - [mike10010100/skyauth](https://github.com/mike10010100/skyauth) - Pure safe Rust (#![forbid(unsafe_code)]) AT Protocol OAuth 2.1 client library with RFC 9449 DPoP, RFC 9126 PAR, RFC 7636 PKCE & formal mathematical verification
 - [nao1215/bluesky-terminal-client](https://github.com/nao1215/bluesky-terminal-client) - Unofficial Bluesky client for the terminal that shows pictures and videos right in it (kitty graphics, sixel, iTerm2)
 - [ngerakines/atproto-rs](https://github.com/ngerakines/atproto-rs) - A suite of libraries, tools, and daemons for atproto.
+- [nickmorell/bifrost](https://github.com/nickmorell/bifrost) - A native desktop client for Bluesky and the AT Protocol, written in Rust with iced. Fast, private and free on Windows, macOS and Linux, with no telemetry and every outside integration off by default.
 - [skydeval/farsight](https://github.com/skydeval/farsight) - A self-hosted index of public block records on the AT Protocol network, with an API
 - [Smalls1652/atprotolib-rs](https://github.com/Smalls1652/atprotolib-rs) - Rust library for ATProtocol types
   <!-- AUTOGENERATION_END: sdks_rust -->
