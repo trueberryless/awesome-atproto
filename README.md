@@ -311,6 +311,7 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 ### Photo
 
 - [Currents](https://currents.is) - Save inspiration and curate personalized visual feeds.
+- [Flashes](https://flashes.blue) - A Photo & Video App for Bluesky
 - [Grain](https://grain.social) - Photography focused photo sharing platform
 - [Zeens](https://zeens.app) - A photography community built on ATProtocol.
 
