@@ -120,7 +120,7 @@ Official and community-maintained client libraries for building applications acr
 - [at-microcosm/microcosm-rs](https://github.com/at-microcosm/microcosm-rs) - Rust atproto crates and services for microcosm
 - [FormerLab/pgsky](https://github.com/FormerLab/pgsky) - An AT Protocol / Bluesky client implemented as a PostgreSQL extension. The database is the application
 - [jcalabro/shrike](https://github.com/jcalabro/shrike) - AT Protocol Library for Rust
-- [MarshalX/python-libipld](https://github.com/MarshalX/python-libipld) - 🏎️ Fast Python library to work with IPLD: DAG-CBOR, CID, CAR, multibase
+- [jediwright/local-first-social-native](https://github.com/jediwright/local-first-social-native) - Native iOS/Android client for a local-first social network: Rust core on Automerge + Keyhive, UniFFI, SwiftUI/Compose, atproto identity.
 - [mike10010100/skyauth](https://github.com/mike10010100/skyauth) - Pure safe Rust (#![forbid(unsafe_code)]) AT Protocol OAuth 2.1 client library with RFC 9449 DPoP, RFC 9126 PAR, RFC 7636 PKCE & formal mathematical verification
 - [nao1215/bluesky-terminal-client](https://github.com/nao1215/bluesky-terminal-client) - Unofficial Bluesky client for the terminal that shows pictures and videos right in it (kitty graphics, sixel, iTerm2)
 - [ngerakines/atproto-rs](https://github.com/ngerakines/atproto-rs) - A suite of libraries, tools, and daemons for atproto.
