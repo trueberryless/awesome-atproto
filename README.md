@@ -351,7 +351,7 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 - [pckt.blog](https://pckt.blog) - A distraction-free space to write and share your story. Just you, and your words.
 - [PDS MOOver](https://pds.dad) - ATProto tools for PDS migrations and backups
 - [PDSls](https://pds.ls) - Browse the public data on atproto
-- [plyr.fm](https://plyr.fm) - start typing to search across all content
+- [plyr.fm](https://plyr.fm) - audio streaming app
 - [Semble](https://semble.so) - Social knowledge network for your research trails
 - [Squire](https://squire.guide) - the task-sorting assistant for the modern adventuring knight
 - [Stream.place](https://stream.place) - Open Source Livestreaming on the AT Protocol
