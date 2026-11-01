@@ -292,7 +292,6 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 - [AT Mot](https://atmot.herve.bzh) - Guess the 5-letter word in 6 tries!
 - [math.r](https://mathr.app) - Mathr is a brain building game to improve your math calculation skills. Practice arithmetic and level up!
 - [Postgame](https://postgame.at) - Manage your video game library
-- [Puzzmo](https://puzzmo.com) - The new place for thoughtful puzzles.
 - [Skyrdle](https://skyrdle.com) - Daily word puzzle on AT Protocol.
 
 ### News
