@@ -72,12 +72,12 @@ Official and community-maintained client libraries for building applications acr
 - [@atproto/oauth-client-browser](https://github.com/bluesky-social/atproto/tree/main/packages/oauth/oauth-client-browser) - Official library for implementing AT Protocol OAuth in the browser.
   <!-- AUTOGENERATION_START: sdks_ts -->
 - [atpota-to/aturi](https://github.com/atpota-to/aturi) - A free, open-source toolkit for navigating the Atmosphere. Switch clients, share universal links, discover lexicons, detect URIs, browse any PDS.
-- [atproto-os/client](https://github.com/atproto-os/client) - Bluesky & AT Protocol Web Desktop Suite based on Open Web Desktop
 - [callmearta/kite](https://github.com/callmearta/kite) - a BlueSky web client
 - [cameronrye/atproto-mcp](https://github.com/cameronrye/atproto-mcp) - A MCP server that gives LLMs direct access to the AT Protocol ecosystem, enabling seamless interaction with Bluesky and other AT Protocol-based social networks.
 - [harveyrandall/bsky-cli](https://github.com/harveyrandall/bsky-cli) - A command-line client for Bluesky
 - [lucid-softworks/akari](https://github.com/lucid-softworks/akari) - an atproto client for ios, android, and web — the next version of akari.blue
 - [nDimensional/atproto-oauth-client-cloudflare-workers](https://github.com/nDimensional/atproto-oauth-client-cloudflare-workers) - ATProto OAuth Client for Cloudflare Workers
+- [Nester-xyz/Connectsky](https://github.com/Nester-xyz/Connectsky) - Connectsky is a chrome extension based Bluesky / AT Proto Client with its own accessibilities!
 - [opencoredev/social-sdk](https://github.com/opencoredev/social-sdk) - Typed TypeScript SDK for direct and managed social platform integrations, with capability checks, explicit outcomes, and deterministic testing.
 - [pirhoo/trotsky](https://github.com/pirhoo/trotsky) - 🔨 A type-safe Javascript library to build automation at the top of ATProto/Bluesky API.
 - [seanvelasco/usky.app](https://github.com/seanvelasco/usky.app) - Web client for Bluesky using Solid.js
@@ -292,6 +292,7 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 - [AT Mot](https://atmot.herve.bzh) - Guess the 5-letter word in 6 tries!
 - [math.r](https://mathr.app) - Mathr is a brain building game to improve your math calculation skills. Practice arithmetic and level up!
 - [Postgame](https://postgame.at) - Manage your video game library
+- [Puzzmo](https://puzzmo.com) - The new place for thoughtful puzzles.
 - [Skyrdle](https://skyrdle.com) - Daily word puzzle on AT Protocol.
 
 ### News
