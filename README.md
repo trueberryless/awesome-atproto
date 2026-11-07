@@ -355,6 +355,7 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 - [Semble](https://semble.so) - Social knowledge network for your research trails
 - [Squire](https://squire.guide) - the task-sorting assistant for the modern adventuring knight
 - [Stream.place](https://stream.place) - Open Source Livestreaming on the AT Protocol
+- [Tracker - Manager for Bluesky](https://blueskytracker.app) - Track & Manage in real time your network. The must have companion app for Bluesky.
 - [Winesky](https://winesky.app) - Your personal AI sommelier and wine cellar manager.
 - [Witchsky](https://witchsky.app) - Bluesky app with some witchin' additions 💫
   <!-- AUTOGENERATION_END: clients -->
