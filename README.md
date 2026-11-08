@@ -56,7 +56,7 @@ Ready-to-use boilerplates and reference implementations to kickstart your next A
   <!-- AUTOGENERATION_START: starter_kits -->
 - [FiloSottile/bsky-backup-template](https://github.com/FiloSottile/bsky-backup-template) - Template repository for setting up a new ATProto repository backup using GitHub Actions.
 - [indicaindependent/dispatch-line](https://github.com/indicaindependent/dispatch-line) - Autonomous prose-first one-post-a-day architecture for Bluesky — a daily self-contained conversation-starter that coins a named concept, built on measured engagement data (no engagement-bait styling).
-- [pirmax/bluesky-oauth-nextjs](https://github.com/pirmax/bluesky-oauth-nextjs) - A modern, full-stack boilerplate for building web applications with Bluesky OAuth authentication using Next.js, Prisma, and PostgreSQL.
+- [pirmax/bluesky-oauth-nextjs](https://github.com/pirmax/bluesky-oauth-nextjs) - Full-stack boilerplate for Bluesky (AT Protocol) OAuth sign-in with Next.js, Prisma, PostgreSQL and iron-session. Clone, configure, sign in.
 - [rdmurphy/atproto-starter-kit-deno](https://github.com/rdmurphy/atproto-starter-kit-deno) - A basic setup for interacting with Bluesky via ATProtocol written in TypeScript and Deno.
 - [Spirallex/rust-pds-cloudflare](https://github.com/Spirallex/rust-pds-cloudflare) - GitHub template: deploy a Rust AT Protocol PDS (stelyph-core) to Cloudflare Workers.
 - [xXVampiricShadowXx/bsky-news-feed-bot](https://github.com/xXVampiricShadowXx/bsky-news-feed-bot) - Auto-post world news from public-service & non-profit newsrooms to Bluesky - with correct credit on every post. Local dashboard, Docker, one-click starter pack.
