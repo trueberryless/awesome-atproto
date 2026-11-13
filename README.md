@@ -136,6 +136,7 @@ Official and community-maintained client libraries for building applications acr
 - [mackuba/didkit](https://github.com/mackuba/didkit) - A library for handling DID identifiers used in Bluesky AT Protocol. Mirror of: https://tangled.org/mackuba.eu/didkit
 - [mackuba/minisky](https://github.com/mackuba/minisky) - A minimal Ruby client of Bluesky/ATProto API. Mirror of: https://tangled.org/mackuba.eu/minisky
 - [mackuba/sdk.blue](https://github.com/mackuba/sdk.blue) - A curated list of libraries & SDKs for the Bluesky API and AT Protocol. Mirror of: https://tangled.org/mackuba.eu/sdk.blue
+- [nhack/hemel](https://github.com/nhack/hemel) - hemel: a terminal client for Bluesky, built around code snippets. Releases and issues; the source is not here.
 - [ShreyanJain9/xrpc](https://github.com/ShreyanJain9/xrpc) - A small library for working with XRPC requests from Ruby, designed for use as part of Bskyrb
 - [snood1205/arroba](https://github.com/snood1205/arroba) - Unofficial client for ATProto
   <!-- AUTOGENERATION_END: sdks_ruby -->
