@@ -219,10 +219,10 @@ Tools for tapping into the global stream of AT Protocol events and building cust
 - [bluesky-social/jetstream](https://github.com/bluesky-social/jetstream) - The official, lightweight JSON firehose proxy. Essential for most app developers.
   <!-- AUTOGENERATION_START: firehose -->
 - [bigmoves/quickslice](https://github.com/bigmoves/quickslice) - Auto-indexing service and GraphQL API for AT Protocol Records
-- [cameronrye/atproto-mcp](https://github.com/cameronrye/atproto-mcp) - A MCP server that gives LLMs direct access to the AT Protocol ecosystem, enabling seamless interaction with Bluesky and other AT Protocol-based social networks.
 - [cometsh/comet](https://github.com/cometsh/comet) - Music streaming on ATProto!
 - [cometsh/drinkup](https://github.com/cometsh/drinkup) - Elixir ATProtocol firehose & subscription listener
 - [hugeblank/grayhaze.live](https://github.com/hugeblank/grayhaze.live) - Live stream over ATProto
+- [IdreesInc/PokeSky](https://github.com/IdreesInc/PokeSky) - Catch Pokémon directly from the live Bluesky firehose!
 - [ImLunaHey/lunafications](https://github.com/ImLunaHey/lunafications) - Bluesky bot that DMs you when you're blocked, added to lists, or when specific accounts post
 - [mackuba/skyfall](https://github.com/mackuba/skyfall) - A Ruby gem for streaming data from the Bluesky/ATProto firehose. Mirror of: https://tangled.org/mackuba.eu/skyfall
 - [natepmay/hose-race](https://github.com/natepmay/hose-race) - Racing on the Bluesky firehose.
