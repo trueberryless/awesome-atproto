@@ -295,7 +295,6 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 - [at://2048](https://2048.blue) - 2048 on the AT Protocol. Your games, your data, your AT Protocol.
 - [math.r](https://mathr.app) - Mathr is a brain building game to improve your math calculation skills. Practice arithmetic and level up!
 - [Puzzmo](https://puzzmo.com) - The new place for thoughtful puzzles.
-- [Skyrdle](https://skyrdle.com) - Daily word puzzle on AT Protocol.
 
 ### News
 
