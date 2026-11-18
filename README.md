@@ -90,6 +90,7 @@ Official and community-maintained client libraries for building applications acr
 - [bluesky-social/indigo](https://github.com/bluesky-social/indigo) - Official Go implementation of atproto (used for the core Relay/PDS).
   <!-- AUTOGENERATION_START: sdks_go -->
 - [alyraffauf/tg](https://github.com/alyraffauf/tg) - A CLI client for Tangled, the AT Protocol git forge. Mirror.
+- [anahitasocial/anahita-services](https://github.com/anahitasocial/anahita-services) - Anahita is open-source social networking for schools, newsrooms, libraries and communities, connected to the Fediverse and Bluesky
 - [anhgelus/goat-site](https://github.com/anhgelus/goat-site) - GoAT Site is a library that implements Standard.site in Go. (Mirror)
 - [anhgelus/xrpc](https://github.com/anhgelus/xrpc) - Go library implementing a lightweight XRPC client for the AT Protocol. (Mirror)
 - [aykhans/bsky-feedgen](https://github.com/aykhans/bsky-feedgen) - A Go-based feed generator for Bluesky, processing posts, generating a custom feed, and serving it via API.
