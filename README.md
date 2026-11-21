@@ -185,7 +185,7 @@ Lexicons are the schema language of the AT Protocol (similar to OpenAPI for a fe
 - [Lexicon Specification](https://atproto.com/specs/lexicon) - The official documentation for the Lexicon schema language.
   <!-- AUTOGENERATION_START: lexicons -->
 - [danielroe/airspace](https://github.com/danielroe/airspace) - The database you already have.
-- [david-engelmann/atproto](https://github.com/david-engelmann/atproto) - OCaml AT Protocol client — opam install atproto
+- [david-engelmann/atproto](https://github.com/david-engelmann/atproto) - Typed OCaml client for the AT Protocol, the open protocol behind Bluesky. opam install atproto
 - [lexicon-community/lexicon](https://github.com/lexicon-community/lexicon) - An ATProtocol community Lexicon
 - [marukun712/stellar](https://github.com/marukun712/stellar) - Stellarは、Blueskyの投稿に対して簡易的な絵文字リアクションを付けるための、シンプルなLexicon・仕様群です。
 - [MasterJ93/ATProtoKit](https://github.com/MasterJ93/ATProtoKit) - A straightforward solution for using the AT Protocol and Bluesky, written in Swift.
@@ -272,6 +272,12 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 - [lichen.wiki](https://lichen.wiki) - Collaborative knowledge platform on AT Proto
 - [Postgame](https://postgame.at) - Track the video games you play
 
+### Creative
+
+- [Blento](https://blento.app) - Create your own website, the fun way
+- [Lexidraw](https://lexidraw.app) - Lexidraw, an Excalidraw fork where your drawings follow you
+- [rpg.actor](https://rpg.actor) - Build your character on rpg.actor and have fun playing in many worlds!
+
 ### Developer
 
 - [Airglow](https://airglow.run) - Automations for the AT Protocol.
@@ -344,14 +350,12 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 - [Graze](https://graze.social) - Build custom social feeds. Grow your audience. Keep the revenue. No code required.
 - [Kimbia](https://kimbia.app) - Your training journal. Yours, forever.
 - [kipclip](https://kipclip.com) - Save and organize your bookmarks. Free, open, and your data stays yours.
-- [Lexidraw](https://lexidraw.app) - Lexidraw, an Excalidraw fork where your drawings follow you
 - [Margin](https://margin.at) - Write in the margins of the web. Annotate any URL with AT Protocol.
 - [Open Market](https://openmkt.app) - Browse local listings on Open Market. Find great deals on items for sale in your area without fees or middlemen.
 - [pckt.blog](https://pckt.blog) - A distraction-free space to write and share your story. Just you, and your words.
 - [PDS MOOver](https://pds.dad) - ATProto tools for PDS migrations and backups
 - [PDSls](https://pds.ls) - Browse the public data on atproto
 - [plyr.fm](https://plyr.fm) - audio streaming app
-- [rpg.actor](https://rpg.actor) - Build your character on rpg.actor and have fun playing in many worlds!
 - [Semble](https://semble.so) - Social knowledge network for your research trails
 - [Squire](https://squire.guide) - the task-sorting assistant for the modern adventuring knight
 - [Stream.place](https://stream.place) - Open Source Livestreaming on the AT Protocol
