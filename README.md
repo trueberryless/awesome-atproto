@@ -351,6 +351,7 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 - [Kimbia](https://kimbia.app) - Your training journal. Yours, forever.
 - [kipclip](https://kipclip.com) - Save and organize your bookmarks. Free, open, and your data stays yours.
 - [Margin](https://margin.at) - Write in the margins of the web. Annotate any URL with AT Protocol.
+- [Nagi](https://suibari.com) - A social media platform where you can freely share your thoughts without worrying about like counts or follower numbers.
 - [Open Market](https://openmkt.app) - Browse local listings on Open Market. Find great deals on items for sale in your area without fees or middlemen.
 - [pckt.blog](https://pckt.blog) - A distraction-free space to write and share your story. Just you, and your words.
 - [PDS MOOver](https://pds.dad) - ATProto tools for PDS migrations and backups
