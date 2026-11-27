@@ -77,10 +77,10 @@ Official and community-maintained client libraries for building applications acr
 - [harveyrandall/bsky-cli](https://github.com/harveyrandall/bsky-cli) - A command-line client for Bluesky
 - [lucid-softworks/akari](https://github.com/lucid-softworks/akari) - an atproto client for ios, android, and web — the next version of akari.blue
 - [nDimensional/atproto-oauth-client-cloudflare-workers](https://github.com/nDimensional/atproto-oauth-client-cloudflare-workers) - ATProto OAuth Client for Cloudflare Workers
-- [Nester-xyz/Connectsky](https://github.com/Nester-xyz/Connectsky) - Connectsky is a chrome extension based Bluesky / AT Proto Client with its own accessibilities!
 - [opencoredev/social-sdk](https://github.com/opencoredev/social-sdk) - Typed TypeScript SDK for direct and managed social platform integrations, with capability checks, explicit outcomes, and deterministic testing.
 - [pirhoo/trotsky](https://github.com/pirhoo/trotsky) - 🔨 A type-safe Javascript library to build automation at the top of ATProto/Bluesky API.
 - [seanvelasco/usky.app](https://github.com/seanvelasco/usky.app) - Web client for Bluesky using Solid.js
+- [socialdept/protobroker](https://github.com/socialdept/protobroker) - Run confidential AT Protocol OAuth clients on local domains without a tunnel
 - [sprksocial/atp](https://github.com/sprksocial/atp) - Suite of AT Protocol TypeScript libraries built on web standards
 - [trueberryless/awesome-atproto](https://github.com/trueberryless/awesome-atproto) - A curated, auto-updating list of awesome resources, apps, libraries, and developer tools for the AT Protocol (atproto).
   <!-- AUTOGENERATION_END: sdks_ts -->
@@ -282,7 +282,6 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 
 - [Airglow](https://airglow.run) - Automations for the AT Protocol.
 - [ATCR](https://atcr.io) - Push and pull Docker images on the AT Protocol.
-- [co/core](https://cocore.dev) - co/core is a cooperative for AI inference — people pooling the Macs they already own to run open models for each other.
 - [comail](https://comail.at) - Cooperative email for atproto
 - [Marque](https://marque.at) - Claim your name on the open web
 - [npmx](https://npmx.dev) - a fast, modern browser for the npm registry. Search, browse, and explore packages with a modern interface.
