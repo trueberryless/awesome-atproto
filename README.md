@@ -123,7 +123,7 @@ Official and community-maintained client libraries for building applications acr
 - [jcalabro/shrike](https://github.com/jcalabro/shrike) - AT Protocol Library for Rust
 - [jediwright/local-first-social-native](https://github.com/jediwright/local-first-social-native) - Native iOS/Android client for a local-first social network: Rust core on Automerge + Keyhive, UniFFI, SwiftUI/Compose, atproto identity.
 - [mike10010100/skyauth](https://github.com/mike10010100/skyauth) - Pure safe Rust (#![forbid(unsafe_code)]) AT Protocol OAuth 2.1 client library with RFC 9449 DPoP, RFC 9126 PAR, RFC 7636 PKCE & formal mathematical verification
-- [nao1215/bluesky-terminal-client](https://github.com/nao1215/bluesky-terminal-client) - Unofficial Bluesky client for the terminal that shows pictures and videos right in it (kitty graphics, sixel, iTerm2)
+- [nao1215/social-terminal-clients](https://github.com/nao1215/social-terminal-clients) - Unofficial terminal clients for Bluesky (bsky) and Misskey (msky) that show pictures and videos right in the terminal (kitty graphics, sixel, iTerm2).
 - [ngerakines/atproto-rs](https://github.com/ngerakines/atproto-rs) - A suite of libraries, tools, and daemons for atproto.
 - [nickmorell/bifrost](https://github.com/nickmorell/bifrost) - A native desktop client for Bluesky and the AT Protocol, written in Rust with iced. Fast, private and free on Windows, macOS and Linux, with no telemetry and every outside integration off by default.
 - [skydeval/farsight](https://github.com/skydeval/farsight) - A self-hosted index of public block records on the AT Protocol network, with an API
@@ -282,6 +282,7 @@ A diverse ecosystem of social clients, utilities, games, and platforms built on 
 
 - [Airglow](https://airglow.run) - Automations for the AT Protocol.
 - [ATCR](https://atcr.io) - Push and pull Docker images on the AT Protocol.
+- [co/core](https://cocore.dev) - co/core is a cooperative for AI inference — people pooling the Macs they already own to run open models for each other.
 - [comail](https://comail.at) - Cooperative email for atproto
 - [Marque](https://marque.at) - Claim your name on the open web
 - [npmx](https://npmx.dev) - a fast, modern browser for the npm registry. Search, browse, and explore packages with a modern interface.
